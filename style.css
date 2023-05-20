@@ -1,0 +1,70 @@
+h1{
+    text-align: center;
+    color: beige;
+    font-family:"press Start 2P";
+    text-shadow: -2px 4px 1px black
+
+}
+
+body{
+    background-color:darkslategrey
+}
+
+
+#p1{
+    color: beige;
+    text-shadow: 2px 1px 1px black;
+    font-family: "press Start 2P";
+    border: 10px;
+}
+
+#list{
+    color: beige;
+    text-shadow: 2px 1px 1px black;
+    font-family: "press Start 2P";
+}
+
+#misc{
+    color: beige;
+    font-family: "press Start 2P";
+    width:700px;
+    text-shadow: -3px 5px 1px black;
+}
+
+#space{
+    height: 30px;
+    width: device-width;
+    background-color:azure;
+    box-shadow: -5px 3px 4px black;
+}
+
+#prayersL{
+    text-align:center;
+    color:beige;
+    font-family: "press Start 2P";
+    text-shadow: -3px 3px 0px black;
+}
+
+#Prayers{
+    border-radius: 10px;
+    box-shadow: -3px 3px 0px black;
+    background-color:lightblue;
+    color:azure;
+    font-family:"press Start 2P";
+}
+
+#prayersConfirm{
+    width: 150px;
+    font-family: "press Start 2P";
+    margin-left: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    box-shadow: -3px 3px 0px black;
+    background-color:bisque;
+    color:coral;
+}
+
+#prayersConfirm:hover{
+    background-color:beige;
+    color:aqua;
+}
